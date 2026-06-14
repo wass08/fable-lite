@@ -2,8 +2,9 @@
 
 A tiny Fable-inspired sandbox built with **Three.js WebGPU renderer** and **TSL** (Three Shading Language). Fling fireballs, call down lightning, and — most importantly — kick chickens into the stratosphere.
 
-**▶ Play now: deployed on Vercel** (Chrome/Edge get WebGPU; everywhere else falls
-back to WebGL2. Works on phones too.)
+**▶ Play now: https://fable-omega.vercel.app**
+
+(Chrome/Edge get WebGPU; everywhere else falls back to WebGL2. Works on phones too.)
 
 ## Play
 
